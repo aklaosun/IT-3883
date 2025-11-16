@@ -1,7 +1,7 @@
 # Program Name: Assignment4.py
 # Course: IT3883/Section W01
 # Student Name: Ayomide Laosun
-# Assignment Number: 3
+# Assignment Number: 5
 # Due Date: 11/16/2025
 # Purpose: This program reads temperature data from a text file, stores it in a SQLite database table, and then uses SQL queries to calculate and display the average temperature for Sunday and Thursday.
 # Resources: Python documentation for sqlite3 module, Python documentation for file input and output
